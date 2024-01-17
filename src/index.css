@@ -1,8 +1,0 @@
-.container {
-  border: 2px solid black;
-  height: 500px;
-  width: 350px;
-}
-.profile-photo {
-  object-fit: cover;
-}
